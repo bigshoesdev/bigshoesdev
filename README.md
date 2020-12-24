@@ -3,9 +3,12 @@
 ### ⚡ Fun fact:
 ![alt text](https://github.com/bigshoesdev/github-stats/blob/master/generated/overview.svg?raw=true)
 ![alt text](https://github.com/bigshoesdev/github-stats/blob/master/generated/languages.svg?raw=true)
-![alt text](https://github-readme-stats.vercel.app/api?username=bigshoesdev&show_icons=true&count_private=true)
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=bigshoesdev&layout=compact&hide=roff)
-
+<a href="https://github-readme-stats.vercel.app/api?username=bigshoesdev&show_icons=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigshoesdev&show_icons=true&count_private=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bigshoesdev&layout=compact&hide=roff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigshoesdev&layout=compact&hide=roff" />
+</a>
 <!--
 **bigshoesdev/bigshoesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
