@@ -2,6 +2,7 @@
 
 ### ⚡ Fun fact:
 ![alt text](https://github.com/bigshoesdev/github-stats/blob/master/generated/overview.svg?raw=true)
+![alt text](https://github.com/bigshoesdev/github-stats/blob/master/generated/languages.svg?raw=true)
 
 <!--
 **bigshoesdev/bigshoesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
