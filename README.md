@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ Fun fact:
+### ⚡ Fun fact:
 ![alt text](https://github.com/bigshoesdev/github-stats/blob/master/generated/overview.svg?raw=true)
 
 <!--
