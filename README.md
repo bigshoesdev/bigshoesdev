@@ -3,7 +3,7 @@
 ### ⚡ Fun fact:
 ![alt text](https://github.com/bigshoesdev/github-stats/blob/master/generated/overview.svg?raw=true)
 ![alt text](https://github.com/bigshoesdev/github-stats/blob/master/generated/languages.svg?raw=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigshoesdev&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigshoesdev&layout=compact&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bigshoesdev/bigshoesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
