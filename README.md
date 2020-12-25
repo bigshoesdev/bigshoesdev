@@ -1,13 +1,10 @@
 ### Hi there 👋
 
 ### ⚡ Fun fact:
-![alt text](https://github.com/bigshoesdev/github-stats/blob/master/generated/overview.svg?raw=true)
-![alt text](https://github.com/bigshoesdev/github-stats/blob/master/generated/languages.svg?raw=true)
-<a href="https://github.com/kwebdev225/kwebdev225">
+<a href="https://github.com/bigshoesdev/bigshoesdev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigshoesdev&show_icons=true&count_private=true&layout=compact" height=180 />
 </a>
-
-<a href="https://github.com/kwebdev225/kwebdev225">
+<a href="https://github.com/bigshoesdev/bigshoesdev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigshoesdev&show_icons=true&count_private=true&include_all_commits=true&count_private=true&hide=html,css,roff" height=180 />
 </a>
 
