@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigshoesdev&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/bigshoesdev/bigshoesdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigshoesdev&&hide=html,TSQL,Objective-C&layout=compact&langs_count=15" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigshoesdev&&hide=html,TSQL&layout=compact&langs_count=15" />
 </a>
 
 ## 🔭 Working with
