@@ -5,7 +5,7 @@
 ![alt text](https://github.com/bigshoesdev/github-stats/blob/master/generated/languages.svg?raw=true)
 
 <a href="https://github.com/bigshoesdev/bigshoesdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigshoesdev&show_icons=true&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigshoesdev&show_icons=true&include_all_commits=true&count_private=true&custom_title=Big Shoes Latest Year Github Status" />
 </a>
 <a href="https://github.com/bigshoesdev/bigshoesdev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigshoesdev&&hide=html,TSQL&layout=compact&langs_count=15" />
