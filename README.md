@@ -5,10 +5,10 @@
 ![alt text](https://github.com/bigshoesdev/github-stats/blob/master/generated/languages.svg?raw=true)
 
 <a href="https://github.com/bigshoesdev/bigshoesdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigshoesdev&show_icons=true&count_private=true&layout=compact&hide=Roff,java,html" height=180 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigshoesdev&show_icons=true&count_private=true&include_all_commits=true&count_private=true" height=200 />
 </a>
 <a href="https://github.com/bigshoesdev/bigshoesdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigshoesdev&show_icons=true&count_private=true&include_all_commits=true&count_private=true" height=180 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigshoesdev&show_icons=true&count_private=true&layout=compact&hide=Roff,java,html" height=180 />
 </a>
 
 ## 🔭 Working with
